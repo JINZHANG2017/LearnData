@@ -1,0 +1,31 @@
+[
+    {
+        "label": "选项一",
+        "title": "标题一",
+        "badgeProps": {},
+        "items": [
+            {
+                "label": "标题文字",
+                "image": "https://tdesign.gtimg.com/miniprogram/images/example2.png",
+                "md_url":"https://gitee.com/jin2022/ldap-test/raw/master/README.md"
+            },
+            {
+                "label": "标题文字2",
+                "image": "https://tdesign.gtimg.com/miniprogram/images/example2.png",
+                "md_url":"https://www.vvadd.com/wxml_demo/demo.txt?v=2"
+            }
+        ]
+    },
+    {
+        "label": "选项二",
+        "title": "标题二",
+        "badgeProps": {},
+        "items": [
+            {
+                "label": "标题文字",
+                "image": "https://tdesign.gtimg.com/miniprogram/images/example2.png",
+                "md_url":""
+            }
+        ]
+    }
+]
